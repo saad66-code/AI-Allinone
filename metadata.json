@@ -1,0 +1,9 @@
+{
+  "name": "AI All-in-One Platform",
+  "description": "A modern, full-featured AI assistant platform powered by Google Gemini. Chat, code, generate images, and analyze ideas in one place.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
